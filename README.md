@@ -20,3 +20,8 @@ Sentiment Analysis: TextBlob NLP
 
 Visualization: Streamlit, Plotly
 
+Link: https://global-artist-analytics-marketing.onrender.com/
+
+
+***********please for the better result let the model run completly ********
+
